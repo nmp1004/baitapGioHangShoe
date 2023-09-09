@@ -25,5 +25,5 @@ export default class Details extends Component {
         {this.renderDetail()}
       </div>
     )
-  }
+  }  
 }
